@@ -1,0 +1,9 @@
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/sbt.xml
+.idea/workspace.xml
+sparkStreaming_log.iml
+.idea/hydra.xml
+target/
